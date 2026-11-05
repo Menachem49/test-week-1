@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "items": [
+      {
+        "product_id": 1,
+        "quantity": 2
+      },
+      {
+        "product_id": 2,
+        "quantity": 1
+      },
+      {
+        "product_id": 3,
+        "quantity": 2
+      },
+      {
+        "product_id": 4,
+        "quantity": 3
+      }
+    ],
+    "total": 2312.0,
+    "status": "CLOSED"
+  },
+  {
+    "id": 2,
+    "items": [
+      {
+        "product_id": 2,
+        "quantity": 3
+      }
+    ],
+    "total": 240,
+    "status": "OPEN"
+  }
+]
